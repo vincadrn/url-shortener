@@ -1,3 +1,5 @@
-# URL Shortener Microservice
+# URL Shortener
+Pretty much the same as the name itself, this repository contains the source code to a simple web service to shorten URL.
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
+## How to use
+It is pretty simple to use. Users just have to input the URL (including the protocol) and the site will simply output the shortened URL.
